@@ -1,3 +1,7 @@
 Informe de actividades TICS
 
 En la universidad catolica del ecuador 
+
+Actividad de control de versiones 
+             Manipular github para la ayuda del contrlo de versiones
+             
