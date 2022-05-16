@@ -1,0 +1,6 @@
+Codificando en c++
+set value as integer = 2
+
+If 2>= 3 then
+  2 = 0
+end if
